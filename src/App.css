@@ -73,7 +73,7 @@ em {
     transform: translate(-800px);
   }
   50% {
-    transform: translate(100px);
+    transform: translate(50px);
   }
   100% {
     transform: translate(0px);
