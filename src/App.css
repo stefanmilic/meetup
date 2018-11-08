@@ -64,9 +64,14 @@ em {
   font-weight: 900;
   letter-spacing: 5px;
 }
-
+.card-text {
+  color: #fff;
+}
 .card-body {
   animation: slide 2s ease-in-out forwards;
+}
+.description .card-text {
+  text-align: justify;
 }
 
 @keyframes slide {
